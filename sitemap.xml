@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.ppm-pforzheim.com/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/crimp-druck-1600.webp</image:loc>
+      <image:caption>Crimpkontakt-Muster im 3D-Drucker bei PPM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/bauplatte-muster-1600.webp</image:loc>
+      <image:caption>Frisch gedrucktes 3D-Druckmuster auf der Bauplatte des 3D-Druckers</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/muster-entnahme-1600.webp</image:loc>
+      <image:caption>Fertiges 3D-Druckmuster wird mit Handschuh von der Bauplatte entnommen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/musterteile-collage-1600.webp</image:loc>
+      <image:caption>Beispiele für 3D-Druckmuster: Crimpkontakt, Steckverbinder-Gehäuse und Crimpkontakt-Muster</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ppm-pforzheim.com/leistungen/prototypen/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/bauplatte-muster-1600.webp</image:loc>
+      <image:caption>Frisch gedrucktes 3D-Druckmuster auf der Bauplatte des 3D-Druckers</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/muster-entnahme-1600.webp</image:loc>
+      <image:caption>Fertiges 3D-Druckmuster wird mit Handschuh von der Bauplatte entnommen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/drucker-bedienung-1600.webp</image:loc>
+      <image:caption>Mitarbeiter entnimmt ein 3D-gedrucktes Muster aus dem 3D-Drucker</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/platinen-clip-1600.webp</image:loc>
+      <image:caption>Transparentes 3D-Druckmuster eines Rasthaken-Clips, freigestellt</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ppm-pforzheim.com/leistungen/werkzeugbau/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ppm-pforzheim.com/leistungen/fertigung/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ppm-pforzheim.com/unternehmen/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/drucker-bedienung-2-1600.webp</image:loc>
+      <image:caption>Mitarbeiter hält ein transparentes 3D-Druckmuster am 3D-Drucker</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ppm-pforzheim.com/jobs/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.ppm-pforzheim.com/assets/img/drucker-bedienung-1600.webp</image:loc>
+      <image:caption>Mitarbeiter entnimmt ein 3D-gedrucktes Muster aus dem 3D-Drucker</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ppm-pforzheim.com/kontakt/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

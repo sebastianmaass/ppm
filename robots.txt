@@ -1,0 +1,6 @@
+# robots.txt für www.ppm-pforzheim.com
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://www.ppm-pforzheim.com/sitemap.xml
