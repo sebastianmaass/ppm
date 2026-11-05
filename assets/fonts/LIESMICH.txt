@@ -1,0 +1,17 @@
+SCHRIFTEN (lokal eingebunden, keine Google Fonts)
+=================================================
+Die Website erwartet diese Dateien in diesem Ordner:
+
+  archivo-variable.woff2     Archivo, variable Schrift (Gewicht + Breite)   Lizenz: SIL OFL 1.1
+  ibm-plex-mono-400.woff2    IBM Plex Mono Regular                           Lizenz: SIL OFL 1.1
+  ibm-plex-mono-500.woff2    IBM Plex Mono Medium                            Lizenz: SIL OFL 1.1
+
+Woher?
+  Archivo:        https://github.com/Omnibus-Type/Archivo  (Ordner fonts/webfonts, Datei "Archivo[wdth,wght].woff2")
+  IBM Plex Mono:  https://github.com/IBM/plex  (Ordner packages/plex-mono/fonts/complete/woff2)
+  Alternative:    https://fontsource.org/fonts/archivo und https://fontsource.org/fonts/ibm-plex-mono
+                  (dort "Download" wählen; Datei "latin" als woff2 verwenden)
+
+Die Dateien nach dem Herunterladen so umbenennen wie oben. Danach build.bat ausführen.
+Solange sie fehlen, zeigt die Seite eine Ersatzschrift (Segoe UI / Consolas) und bleibt voll lesbar.
+Bitte die OFL-Lizenztexte (OFL.txt) aus den Downloads mit in diesen Ordner legen.
